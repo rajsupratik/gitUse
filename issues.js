@@ -1,1 +1,1 @@
-console.log("Sorry there")
+const pairs = "Resolving isuues";
